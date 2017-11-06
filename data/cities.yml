@@ -1,0 +1,18 @@
+- name: shanghai
+  address: "819 Wulumuqi rd, Shanghai"
+- name: berlin
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+- name: rio
+  address: "27, Codacabana lane"
+- name: miami
+  address: "Code on the beach"
+- name: moscow
+  address: "Stay warm indoors and code"
+- name: honk kong
+  address: "New York of the East"
+- name: montreal
+  address: "Cold and cool"
+- name: paris
+  address: "The pearl of Europe"
+- name: chengdu
+  address: "Hotpotlaptop"
